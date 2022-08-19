@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iceylettuce
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on stuff
+- 👀 I’m interested in programming, research, and data analysis
+- 🌱 I’m currently learning SWIFT Programming
+- 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: nathan.hansen.zhang@gmail.com
 
 <!---
